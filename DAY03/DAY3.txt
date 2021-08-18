@@ -1,0 +1,24 @@
+DAY 3 --> CLASS, METHODS, OBJECTS ......
+
+##Class, Objects, METHODS
+--> Class consists of objects, methods, or any other functions.
+--> There can only be one public class in a single program
+--> Also only one main class should be present in the program
+
+--> Objects are used to create an entity of a class
+--> Objects iherits all the variables and methods of a class
+
+--> Methods are used as function to perform certain tasks.
+--> We can specify arguments in methods as well.
+
+
+##Return type
+--> these define what would be the return value of a methods
+--> for example the return value can be int, void, bool, double....
+
+(pushing all DAY3 recent files in github)
+---------------------------------Break Time--------------------------------
+
+
+$$$ Program that showcases usage of class, objects and its methods $$$
+$$$ Declaring the return type and implementing the arguments in methods $$$

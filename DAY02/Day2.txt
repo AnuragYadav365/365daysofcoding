@@ -1,0 +1,41 @@
+6 Aug 2021
+
+DAY 2 --> Comments, Variables Scope, Do while, Switch Statements
+
+##Comments
+--> // For single line Comments
+--> /*.....*/ for multi line Comments
+--> Comments are not visible in the output.
+
+##Do while
+--> Iterate throgh a group of statement until the specified condition.
+--> used whith while(at the end).
+
+##Switch Statements
+--> Like if Statements
+--> use to verify condition and execute a set of statments on the same basis
+
+(pushing files in github)
+----------------------------------BREAK TIME-----------------------------------
+
+##Arrays
+--> Used to store a list of values.
+--> for example int[3] refer to a memory which can hold upto 3 bytes of space.
+--> {} can be used to define an Arrays 
+
+##MultiDimensional Arrays
+--> Collection of 1-D Arrays
+--> int[4][3] is basic syntax for a 2-D array where 4 is the number of sub arrays and 
+3 is the length of each sub arrays
+--> Do not omit the first parameter in defining multi dimensional array like: double[][2] it results error.
+
+
+(pushing all the recent files in github)
+--------------------------------DAY2 DONE--------------------------------------
+
+Program Designed
+$$$ Program that validates the user input and runs do while loop $$$
+$$$ Program that demonstrates the usage of comments in java $$$
+$$$ A Switch case program that chec for a particular user name $$$
+$$$ Program of array and iterating through the array $$$
+$$$ Designing a program that iterates through a multi dimensional array $$$

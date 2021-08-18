@@ -1,0 +1,31 @@
+DAY 6 --> Exception Hanlding
+
+##Exception Handling
+--> Used when any group of statments generate error.
+--> The Exceptions can be handled in two ways:
+        >throws
+        >try and catch
+
+--> Child exceptions must be catched before cathcing parent exceptions.
+--> Multiple exception can be catch be
+        >try, catch, catch...
+        >try, multi catch
+
+(Pushing all the recent DAY6 files in the github)
+-------------------------------BREAK TIME----------------------------------
+
+## .eqauls() methods V/S ==
+--> equal operator(==) check whether two objects points to the same reference rather than looking for the data.
+--> .eqauls() methods check whether two instances contains the same data or not even when they both points to different references.
+--> == is used mostly for primitives.
+
+
+## Abstract classes
+--> These are used to maintain a hierarchy of classes with many different sub classes.
+--> abstract classes can't be instantized as compared to regular classes.
+--> Also one abstract class can be extends with another class as to maintain hierarchy.
+
+##Program Designed ##
+$$$ Program for exception handling of a file using try/catch $$$
+$$$ Program to check for user inputted value as if it is int or not, if not int print the error $$$
+$$$ Program to handle multiple excpetions in the file $$$

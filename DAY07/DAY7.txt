@@ -1,0 +1,12 @@
+DAY7 --> Inner Classes
+
+## Inner Classes
+--> Classes inside another class scope are inner classes.
+--> Three ways to implement or declare an inner class:
+        >Non-Static Classes
+        >Static Classes
+        >Inside Methods of super-class
+
+
+##Program Designed
+$$$ Program that showcases the use of inner classes by different scenarios $$$(Incomplete)

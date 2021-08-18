@@ -1,0 +1,7 @@
+DAY 12 --> 4th day on HackerRank
+
+## PROGRAM CODED ##
+1. JAVA end-of-file --> https://www.hackerrank.com/challenges/java-end-of-file/problem
+
+2. Java Static Initializer Block -->https://www.hackerrank.com/challenges/java-static-initializer-block/problem
+

@@ -1,0 +1,64 @@
+DAY 1 --> Variables and Strings
+
+#Defining Variables
+-->The eight primitives defined in Java are int, byte, short, long, float, double, boolean, and char.
+
+--> short is of 16bit whereas long is of 64bit.
+--> short of double is float, and when declaring float variable add the 'f' termination at the end of value.
+
+
+#Defining Strings
+--> String is a non-primitve datatype in Java.
+--> String is a class in java
+--> Using concatenate "+", add two strings.
+--> \n is special character used for new line.
+
+$Note - Use single quotes for literal char s, double quotes for literal String s.
+
+
+#While Loop
+--> Used for conditional analysis.
+--> Need to update the value (as it results in inifinte loop)
+--> Works on TRUE/FALSE condition of particular statement.
+
+(Pushing the files in github)
+------------------------------------BREAK TIME------------------------------------------------
+
+
+#For Loop
+--> Must have two semicolon as in arguments (;;)
+--> This format of for loop "for(;;)" would always output a True value
+
+#Format specifiers
+--> Replace a specified value in string arguments via a variable value on runtime.
+--> %d is for specifying an int format specifier.
+--> %n for a new line
+--> %f for a decimal float value
+--> %c for character
+--> %b for Boolean
+
+
+#Note
+--> i= i+1 is same as i++
+--> != is symbol for not equal
+
+#If Condition/ statement
+--> If is based upon condition evaluation of any expression or value.
+--> We can use elif(many time), else(only one occurence) with if statement.
+
+(pushing all the newly created files in github)
+---------------------------------------------BREAK TIME-------------------------------------------------------
+
+#User input
+--> Firsly, we have to import the package which can be done by: import java.util.Scanner
+--> Scanner is also a class like String.
+--> nextline() method is used for checking the new line chatacter that is enter key input.
+
+#Programm Coded
+$$$ Designed prim_dtype file whihc include demonstration of primtives used in Java $$$
+$$$ Program that concatenates two strings and two values of different primitives(int + double) $$$
+$$$ Program that shows the usage of while loop and implements the mathematical table calculation of any number $$$
+$$$ Program that prints the values from 1 to 10 using for loop $$$
+$$$ Program for displaying strings and different values using format specifiers $$$
+$$$ Design a program that checks for 365 days of streak (using if and loop) $$$
+$$$ Program that takes string input from user and display the same $$$

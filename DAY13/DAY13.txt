@@ -1,0 +1,6 @@
+DAY13 --> 5th day on HackerRank
+
+## Program Coded ##
+1. Java int to String --> https://www.hackerrank.com/challenges/java-int-to-string/problem
+
+2. Java Date and Time --> https://www.hackerrank.com/challenges/java-date-and-time/problem

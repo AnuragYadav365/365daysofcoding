@@ -1,0 +1,8 @@
+DAY 9 --> Starting with Programs on HackerRank
+
+PROGRAMS:
+1. Java Stdin and Stdout -- https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem?h_r=next-challenge&h_v=zen
+
+2. Java if-else -- https://www.hackerrank.com/challenges/java-if-else/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen
+
+3. Java stdin and stdout2 -- https://www.hackerrank.com/challenges/java-stdin-stdout/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen

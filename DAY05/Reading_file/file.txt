@@ -1,0 +1,10 @@
+365
+Read text from this file
+
+This is 365 days of code
+journey
+
+By initial Coder
+and this is the DAY 5 of this long journey
+
+--Initial Coder

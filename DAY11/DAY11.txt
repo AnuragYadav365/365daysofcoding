@@ -1,0 +1,6 @@
+Day 11 --> 3rd day on HackerRank
+
+##Program coded:
+1. JAVA loops II --> https://www.hackerrank.com/challenges/java-loops/problem
+
+2. Java Datatypes --> https://www.hackerrank.com/challenges/java-datatypes/problem

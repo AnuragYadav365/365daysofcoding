@@ -1,0 +1,33 @@
+DAY 4 --> Constructors and this vs. this()
+
+##Constructors
+--> Constructors do not have return types.
+--> A constructor name should always be the same as that of class.
+--> Constructors are different from methods because of the return value features.
+--> Parameter can also be added inside constructor declaration like methods.
+
+## this.
+--> this. is used to differentiate between the variable of instance of the class and other 
+variables inside the scope
+
+## this()
+--> Used to call a constructor within another constructor
+--> must be at the beginning of the constructor.
+--> cannot call two constructors within one constructor
+
+## Static variables and methods
+--> Static variables have only one copy inside whole class
+--> These are called before constructors or non-static variables and methods.
+--> Declared by keyword "static"
+--> Can be used for counting of objects inside a class
+
+## Final
+--> Constant creators which helps in declaring final value of a whole class.
+--> Their value can't be changed once specified.
+
+(pushing all the recent DAY4 files in github)
+----------------------------------BREAK TIME---------------------------------------
+
+## Program Designed
+$$$ Constructor usage which includes normal, parameterized, muti-parameterized constructors $$$
+$$$ Program that shows difference between a static and non-static variables as well as methods $$$

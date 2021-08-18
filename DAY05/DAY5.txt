@@ -1,0 +1,58 @@
+DAY 5 --> Inheritance, Access Modifiers, Polymorphism
+
+## Inheritance
+--> Inheriting the objects and methods from another class.
+-->  "extends" keyword can also be used to extends a class with another class
+
+For example:
+public class C1 extends C2  --> here C1 is a sub class and C2 is the super class
+
+
+## Access Modifiers
+--> public, private, default (lack of access modifiers) and private.
+
+## Polymorphism
+--> Polymorphism means many forms of the same function or instance.
+--> functions with the same name in different classes creates polymorphism
+
+## Note --> Learn about polymorphism more
+
+
+(pushing all the recent DAY 5 files in github repository)
+-------------------------------------BREAK TIME--------------------------------
+
+
+## Numeric casting
+--> You can cast a value of one primitive to another one via type casting.
+--> For example, you can cast a float value into an int value.
+--> String to int or vice versa would not work.
+
+##Interfaces
+--> Interfaces are another thing after the class
+--> they include methods which are must in any other implemented classes.
+--> implements keyword is used to establish relation between class file and Interfaces
+--> also we can implement more than one interfaces unlike extends(only one class)
+
+
+----------------------------------BREAK TIME------------------------------------
+
+##Anonymous class
+--> these can be used to modify structure of class as well as interfaces
+--> used in place on declaration of instances
+
+##Reading text from a file
+--> Via using file library of java we can read file
+--> and with the help of Scanner class we can manipulate the data and display it.
+
+
+(pushing all the final DAY5 Files in the github repository)
+
+
+## Program Designed
+$$$ Program that demonstrates the usage of inheritance between diferent classes $$$
+$$$ Program demonstrating the polymorphism concept between two classes $$$
+$$$ Show case the encapsulation of data via public and private access modifiers $$$
+$$$ Casting of numerical values program $$$
+$$$ Program that showcases the implementation of interface $$$
+$$$ Use of anonymous class program $$$
+$$$ Program that reads the text from a file and displays the text inside the file $$$

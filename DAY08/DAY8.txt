@@ -1,0 +1,18 @@
+DAY 8 --> Enums
+
+##Enums
+--> Enums is a special type used in java to define constant (constatnt list).
+--> It can contains constants, methods.
+--> It's also like a java class (same declaration syntax)
+
+(pushing all the recent DAY8 files in github repository)
+-------------------------------BREAK TIME-----------------------------
+
+##Serialization
+-->Serialize the data objects by writing in a .data files
+--> Also, reading this serialized data via fileOutputStream.
+
+##Program Designed
+$$$ Correcting the code of Day7 Inner classes $$$ (Done)
+$$$ Using the Enum code provided in the lecture resources and evaluate the program. $$$
+$$$ Program that has user data with Serialization for writing and reading as well. $$$
