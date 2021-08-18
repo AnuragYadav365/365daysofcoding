@@ -8,16 +8,16 @@ STARTING DAY -->> 4 Aug 2021
 
 #Creating connection to github Repository
 1. git init
-2. git config --global user.email "initialofcode@gmail.com"
-3. git config --global user.name "Initial Coder"
+2. git config --global user.email "anuragyadavmnp@gmail.com"
+3. git config --global user.name "AnuragYadav365"
 4. git add -A
 5. git commit -m "First commit Day0"
 6. git branch -m main
-7. git remote add origin https://github.com/initialcoder365/365days-of-code.git
+7. git remote add origin https://github.com/AnuragYadav365/365daysofcoding.git
 
 #Generating SSH Key
 Open Git bash-->
-1. ssh-keygen -t ed25519 -C "initialofcode@gmail.com"
+1. ssh-keygen -t ed25519 -C "anuragyadavmnp@gmail.com"
 2. eval "$(ssh-agent -s)"
 3. ssh-add ~/.ssh/id_ed25519
 4. clip < ~/.ssh/id_ed25519.pub
