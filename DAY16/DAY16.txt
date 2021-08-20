@@ -1,0 +1,8 @@
+DAY 16 -- 7th day on HackerRank
+
+## Program Successfully coded ##
+1. Java Substring --> https://www.hackerrank.com/challenges/java-substring/problem
+
+2. Java String Reverse --> https://www.hackerrank.com/challenges/java-string-reverse/problem
+
+DONE!
