@@ -1,0 +1,4 @@
+DAY 17 --> 8TH day on HackerRank
+
+## Program
+1. Java Substring comparison -->
