@@ -1,7 +1,15 @@
 DAY 18 --> 9th day on HackerRank
 
-## Program to write:
+## Program Successfully Completed: ##
 
 1. DAY17 Incomplete Substring comparison Program  --> https://www.hackerrank.com/challenges/java-string-compare/problem   --- Successfully Completed
 
-2. 
+2. Abstract Class --> https://www.hackerrank.com/challenges/java-abstract-class/problem
+
+3. Ineritance I --> https://www.hackerrank.com/challenges/java-inheritance-1/problem
+
+4. Inheritance II --> https://www.hackerrank.com/challenges/java-inheritance-2/problem
+
+5. Method Overriding I --> https://www.hackerrank.com/challenges/java-method-overriding/problem
+
+6. Method Overriding II --> https://www.hackerrank.com/challenges/java-method-overriding-2-super-keyword/problem
