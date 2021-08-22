@@ -1,0 +1,7 @@
+DAY 18 --> 9th day on HackerRank
+
+## Program to write:
+
+1. DAY17 Incomplete Substring comparison Program  --> https://www.hackerrank.com/challenges/java-string-compare/problem   --- Successfully Completed
+
+2. 
