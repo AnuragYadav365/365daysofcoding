@@ -1,0 +1,7 @@
+DAY 19 --> 9TH Day on HackerRank
+
+## Program Coded Successfully ##
+
+1. Pattern Syntax Checker --> https://www.hackerrank.com/challenges/pattern-syntax-checker/problem
+
+2. InstanceOf keyword --> https://www.hackerrank.com/challenges/java-instanceof-keyword/problem
