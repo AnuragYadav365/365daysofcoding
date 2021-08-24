@@ -1,0 +1,15 @@
+DAY 20 --> Setting up C++ 
+
+#
+As on DAY 19, I have successfully scored up 5* in Java on HackerRank.
+So, let's give a try to other programming language like c++ and python since every programming language requires the same approach to solve a problem most often.
+The problem solving scenario remains the same in most cases.
+
+This week I would be trying to practice question in C++ or Python on HackerRank
+Let's see what we get at the end of this week.
+
+#Program Completed
+1. Successfully Complete the verified skills certificate of Java
+
+2. (python) Collection counter
+
