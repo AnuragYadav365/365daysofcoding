@@ -6,3 +6,11 @@ DAY20 --> 11th day on HackerRank
 2. Functions C++ --> https://www.hackerrank.com/challenges/c-tutorial-functions/problem
 
 3. Namedtuple collection Python --> https://www.hackerrank.com/challenges/py-collections-namedtuple/problem
+
+4. Accessing Inherited Functions C++ --> https://www.hackerrank.com/challenges/accessing-inherited-functions/problem
+
+5. Calculating Rectangle Area C++ --> https://www.hackerrank.com/challenges/rectangle-area/problem
+
+6. Tutorial for loop C++ --> https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem
+
+7. Functions introduction C++ --> https://www.hackerrank.com/challenges/c-tutorial-functions/problem
