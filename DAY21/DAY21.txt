@@ -1,0 +1,8 @@
+DAY20 --> 11th day on HackerRank
+##Trying random questions from HackerRank
+
+1.For loop C++ --> https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem
+
+2. Functions C++ --> https://www.hackerrank.com/challenges/c-tutorial-functions/problem
+
+3. Namedtuple collection Python --> https://www.hackerrank.com/challenges/py-collections-namedtuple/problem
