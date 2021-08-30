@@ -7,7 +7,7 @@ using namespace std;
 
 
 int main() {
-    /* Enter your code here. Read input from STDIN. Print output to STDOUT */   
+    /* Enter your code here. Read input from STDIN. Print output to STDOUT */
     int n,q;
     cin >> n>> q;
     int** seq = new int* [n];
@@ -15,7 +15,7 @@ int main() {
         int a;
         cin>>a;
         int* b=new int [a];
-        
+
         for(int j=0;j<a;j++) {
             int e;
             cin>>e;
