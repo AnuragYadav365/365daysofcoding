@@ -1,4 +1,4 @@
-DAY 17 --> 8TH day on HackerRank
+DAY 17 --> 9TH day on HackerRank
 
 ## Program
-1. Java Substring comparison -->
+1. Java Substring comparison --> https://www.hackerrank.com/challenges/java-string-compare/problem

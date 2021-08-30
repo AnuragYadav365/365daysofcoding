@@ -1,0 +1,8 @@
+DAY 25 --> 16th Day on HackerRank
+##Trying Random Questions
+
+## Program Succesfully Coded
+
+1. Small Triangle Big Triangle C --> https://www.hackerrank.com/challenges/small-triangles-large-triangles/problem
+
+2. Bitwise And C --> https://www.hackerrank.com/challenges/30-bitwise-and/problem

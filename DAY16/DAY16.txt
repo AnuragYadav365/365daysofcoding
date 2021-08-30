@@ -1,4 +1,4 @@
-DAY 16 -- 7th day on HackerRank
+DAY 16 -- 8th day on HackerRank
 
 ## Program Successfully coded ##
 1. Java Substring --> https://www.hackerrank.com/challenges/java-substring/problem

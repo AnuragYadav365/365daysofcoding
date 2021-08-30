@@ -1,4 +1,4 @@
-DAY  15 --> 6th day on HackerRank
+DAY  15 --> 7th day on HackerRank
 
 ## Program Coded Successfully ##
 1. Java String intoduction --> https://www.hackerrank.com/challenges/java-strings-introduction/problem

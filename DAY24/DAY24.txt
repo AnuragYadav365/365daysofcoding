@@ -1,4 +1,4 @@
-Day 24 --> 14th Day on HackerRank
+Day 24 --> 15th Day on HackerRank
 ##Getting to 5* in python
 
 ## Programs Successfully Designed ##

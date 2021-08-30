@@ -1,4 +1,4 @@
-DAY 22 --> 12th day on HackerRank
+DAY 22 --> 13th day on HackerRank
 --> Achieved 5* in C++ on HackerRank
 
 ##Program Successfully Designed ##

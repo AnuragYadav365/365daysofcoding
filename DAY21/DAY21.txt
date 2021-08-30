@@ -1,4 +1,4 @@
-DAY20 --> 11th day on HackerRank
+DAY20 --> 12th day on HackerRank
 ##Trying random questions from HackerRank
 
 1.For loop C++ --> https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem

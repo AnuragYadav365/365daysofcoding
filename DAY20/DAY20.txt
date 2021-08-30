@@ -1,4 +1,4 @@
-DAY 20 --> Setting up C++ 
+DAY 20 --> Setting up C++
 
 #
 As on DAY 19, I have successfully scored up 5* in Java on HackerRank.
@@ -11,5 +11,4 @@ Let's see what we get at the end of this week.
 #Program Completed
 1. Successfully Complete the verified skills certificate of Java
 
-2. (python) Collection counter
-
+2. (python) Collection counter --> https://www.hackerrank.com/challenges/collections-counter/problem
