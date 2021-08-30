@@ -11,3 +11,7 @@ Day 24 --> 14th Day on HackerRank
 4. Students Marks Sum C --> https://www.hackerrank.com/challenges/students-marks-sum/problem
 
 5. Variadic Function C --> https://www.hackerrank.com/challenges/variadic-functions-in-c/problem
+
+6. Bitwise Operators C --> https://www.hackerrank.com/challenges/bitwise-operators-in-c/problem
+
+7. Pointers in C --> https://www.hackerrank.com/challenges/pointer-in-c/problem
