@@ -1,0 +1,9 @@
+Select country.country_name, city.city_name, count(customer.customer_name)
+from country
+inner join city on city.country_id = country.id
+inner join customer on customer.city_id = city.id
+group by country.country_name, city.city_name
+having count(customer.customer_name) >
+(
+  Select count(*) / count(distinct city_id) from customer
+)
