@@ -1,4 +1,4 @@
-DAY 10 -- 2ns day on HackerRank
+DAY 10 -- 2nd day on HackerRank
 
 ##PROGRAMS
 1. Java output formatting --> https://www.hackerrank.com/challenges/java-output-formatting/problem?h_r=next-challenge&h_v=zen
