@@ -1,0 +1,25 @@
+SELECT ID FROM COMPANY WHERE EMPLOYEES>10000 ORDER BY ID ASC;
+
+Student Analysis
+/*
+Enter your query below.
+Please append a semicolon ";" at the end of the query
+*/
+
+SELECT E.ROLL_NUMBER, S.NAME FROM STUDENT_INFORMATION AS S
+JOIN EXAMINATION_MARKS AS E
+ON S.ROLL_NUMBER = E.ROLL_NUMBER
+WHERE (E.SUBJECT_ONE + E.SUBJECT_TWO + E.SUBJECT_THREE)<100
+
+
+
+
+Profitable Stocks
+/*
+Enter your query below.
+Please append a semicolon ";" at the end of the query
+*/
+SELECT TOD.STOCK_CODE FROM PRICE_TODAY AS TOD
+JOIN PRICE_TOMORROW AS TOM
+ON TOD.STOCK_CODE = TOM.STOCK_CODE
+WHERE TOM.PRICE > TOD.PRICE;
