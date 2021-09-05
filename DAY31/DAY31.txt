@@ -1,0 +1,6 @@
+DAY 31 --> 2nd Day on CodeForces
+
+## Program Solved
+1. 231A Team --> https://codeforces.com/problemset/problem/231/A
+
+2. 158A Round Team --> https://codeforces.com/problemset/problem/158/A
