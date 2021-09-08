@@ -1,0 +1,10 @@
+DAY 34 --> 5th Day on HackerRank
+
+## Program Successfully Executed
+1. 339/A --> https://codeforces.com/problemset/problem/339/A
+
+2. 281/A --> https://codeforces.com/problemset/problem/281/A
+
+3. 266/A --> https://codeforces.com/problemset/problem/266/A
+
+4. 236/A --> https://codeforces.com/problemset/problem/236/A
