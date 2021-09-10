@@ -1,0 +1,9 @@
+DAY 37 --> 8th day on CodeForces
+
+## Program Successfully Executed/Submitted
+
+1. 110/A Lucky Number --> https://codeforces.com/contest/110/problem/A
+
+2. 41/A Translation --> https://codeforces.com/problemset/problem/41/A
+
+3. 734/A Anton Danik --> https://codeforces.com/problemset/problem/734/A
