@@ -1,0 +1,7 @@
+DAY 39 --> 10th day on CodeForces
+
+## Program Successfully Executed/Submitted
+
+1. 344/A --> https://codeforces.com/problemset/problem/344/A
+
+2. 1030/A --> https://codeforces.com/problemset/problem/1030/A
