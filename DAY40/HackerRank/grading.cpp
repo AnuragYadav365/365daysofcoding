@@ -1,3 +1,7 @@
+//https://www.hackerrank.com/challenges/grading/problem
+// Anurag Yadav
+//https://github.com/AnuragYadav365
+
 #include <bits/stdc++.h>
 using namespace std;
 int main(){

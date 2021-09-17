@@ -1,3 +1,6 @@
+#https://www.hackerrank.com/challenges/cats-and-a-mouse/problem
+# Anurag Yadav
+#https://github.com/AnuragYadav365
 x,y,z = 0,0,0
 for i in range(int(input())):
     x,y,z = map(int, input().split())

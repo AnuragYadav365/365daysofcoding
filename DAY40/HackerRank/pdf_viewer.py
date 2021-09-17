@@ -1,3 +1,7 @@
+#https://www.hackerrank.com/challenges/designer-pdf-viewer/problem
+# Anurag Yadav
+#https://github.com/AnuragYadav365
+
 hlist = list(map(int, input().split()))
 str = input()
 index = 0

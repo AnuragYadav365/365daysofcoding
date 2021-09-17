@@ -1,3 +1,7 @@
+#https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem
+# Anurag Yadav
+#https://github.com/AnuragYadav365
+
 scores = list(map(int, input().split()))
 lowest = scores[0]
 highest = scores[0]

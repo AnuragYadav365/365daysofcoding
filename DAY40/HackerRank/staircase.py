@@ -1,4 +1,7 @@
 #!/bin/python3
+#https://www.hackerrank.com/challenges/staircase/problem
+# Anurag Yadav
+#https://github.com/AnuragYadav365
 
 import math
 import os
