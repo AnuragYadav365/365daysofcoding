@@ -27,6 +27,9 @@ public class compare_triplets {
                 bscore+=1;
             }
         }
-        System.out.println(final_lst);
+
+        final_lst.set(0, ascore);
+        final_lst.set(1, bscore);
+        System.out.println(final_lst.get(0) + " " + final_lst.get(1));
     }
 }
