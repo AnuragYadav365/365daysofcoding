@@ -1,0 +1,9 @@
+DAY 46 --> Random Day on HackerRank
+
+## Program successfully submitted/Executed
+
+1. Divisible sum pair --> https://www.hackerrank.com/challenges/divisible-sum-pairs/problem
+
+2. Equalize array --> https://www.hackerrank.com/challenges/equality-in-a-array/problem
+
+3. Electronic shop --> https://www.hackerrank.com/challenges/electronics-shop/problem
