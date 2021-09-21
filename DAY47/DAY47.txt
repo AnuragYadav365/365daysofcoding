@@ -1,0 +1,7 @@
+DAY 47 --> Problem Solving HackerRank
+
+## Programs Successfully Submitted/Executed:
+
+1. Library Fine --> https://www.hackerrank.com/challenges/library-fine/problem
+
+2. Minimum Distance --> https://www.hackerrank.com/challenges/minimum-distances/problem
