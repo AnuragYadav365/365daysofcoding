@@ -1,3 +1,7 @@
+//https://codeforces.com/problemset/problem/546/A
+//Anurag Yadav
+//https://github.com/AnuragYadav365
+
 #include<iostream>
 using namespace std;
 

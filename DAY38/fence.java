@@ -1,4 +1,7 @@
-package DAY38;
+//https://codeforces.com/problemset/problem/677/A
+//Anurag Yadav
+//https://github.com/AnuragYadav365
+//package DAY38;
 import java.util.Scanner;
 
 public class fence{

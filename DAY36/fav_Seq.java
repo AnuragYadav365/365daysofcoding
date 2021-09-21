@@ -1,4 +1,8 @@
-package DAY36;
+//https://codeforces.com/problemset/problem/1462/A
+//Anurag Yadav
+//https://github.com/AnuragYadav365
+
+//package DAY36;
 import java.util.*;
 
 public class fav_Seq{

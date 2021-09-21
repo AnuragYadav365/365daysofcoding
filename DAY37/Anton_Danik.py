@@ -1,3 +1,7 @@
+#https://codeforces.com/problemset/problem/734/A
+# Anurag Yadav
+#https://github.com/AnuragYadav365
+
 n = int(input())
 s = input()
 

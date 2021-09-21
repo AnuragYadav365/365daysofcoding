@@ -1,4 +1,8 @@
-package DAY36;
+//https://codeforces.com/contest/116/problem/A
+//Anurag Yadav
+//https://github.com/AnuragYadav365
+
+//package DAY36;
 import java.util.*;
 public class tram {
     public static void main(String[] args) {

@@ -1,3 +1,7 @@
+#https://codeforces.com/problemset/problem/59/A
+# Anurag Yadav
+#https://github.com/AnuragYadav365
+
 word = input()
 
 upper = 0

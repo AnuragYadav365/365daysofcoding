@@ -1,3 +1,7 @@
+//https://codeforces.com/problemset/problem/467/A
+// Anurag Yadav
+//https://github.com/AnuragYadav365
+
 #include<bits/stdc++.h>
 using namespace std;
 

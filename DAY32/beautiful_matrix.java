@@ -1,4 +1,4 @@
-//package DAY32;
+package DAY32; //Comment or remove this
 import java.util.Scanner;
 
 public class beautiful_matrix{
