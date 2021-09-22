@@ -19,9 +19,9 @@ int main(){
     int temp = 0;
 
     //loop for combining pairs
-    //loop thorugh array from 0 index to n-1
+    //loop through array from 0 index to n-1
     for(int j=0; j<n-1; j++){
-        //loop thorugh array from 1 index to n
+        //loop through array from 1 index to n
         for(int k=j+1; k<n; k++){
 
             //if match found
