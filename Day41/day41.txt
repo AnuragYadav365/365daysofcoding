@@ -1,7 +1,0 @@
-DAY 41 --> 10th day On Codeforces
-
-## Program Successfully Executed/Submitted
-
-1. 61/A --> https://codeforces.com/problemset/problem/61/A
-
-2. 705/A --> https://codeforces.com/problemset/problem/705/A
