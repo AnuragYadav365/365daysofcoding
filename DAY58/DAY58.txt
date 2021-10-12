@@ -1,0 +1,4 @@
+DAY58
+
+Solved two codechef assignment questions:
+https://www.codechef.com/CUPA2101/
