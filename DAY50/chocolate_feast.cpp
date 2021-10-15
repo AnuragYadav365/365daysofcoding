@@ -34,7 +34,7 @@ int main(){
         cout << "\nTotal chocolate that can be bought: " << tot_chocolate;
 
         int* get_wrapper = wrappers(tot_chocolate, m);
-        cout << "\nTotal bars he can get in exchange" << get_wrapper[0] << " remaining wrappers " << get_wrapper[1];
+        cout << "\nTotal bars he can get in exchange " << get_wrapper[0] << " remaining wrappers " << get_wrapper[1];
         cout << "\n";
 
 
